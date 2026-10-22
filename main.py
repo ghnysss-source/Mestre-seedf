@@ -169,4 +169,4 @@ elif escolha == "✍️ Caderneta do Aluno (Nota 1000)":
     st.info(f"Exibindo modelo estrutural anônimo recomendado para o eixo temático de {ano_redacao}:")
     
     texto_nota_1000 = """
-    INTRODUÇÃO EXEMPLAR (Base e Estrutura):
+    INTRODUÇÃO EXEMPLAR (Base e Estrutura): """
